@@ -53,6 +53,8 @@ public class MainActivity extends Activity {
 	}
 
 	private void popularDisciplinas() {
+		inserirDisciplina("DCT191", "Inteligência Artificial", 2);
+		inserirDisciplina("DCT192", "Computação Móvel I", 4);
 		inserirDisciplina("DCT175","Gestão de Projetos de Software",4);
 		inserirDisciplina("DCT177","Engenharia de Software",4);
 		inserirDisciplina("DCT149","Sistemas Distribuídos",2);
