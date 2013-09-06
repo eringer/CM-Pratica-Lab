@@ -8,6 +8,8 @@
     <string name="menu_item_incluir_curso">Cadastrar curso</string>
     <string name="menu_item_incluir_disciplina">Cadastrar disciplina</string>
     <string name="menu_item_incluir_aluno">Cadastrar aluno</string>
+    <string name="menu_item_alterar_item">Alterar registro</string>
+    <string name="menu_item_remover_item">Remover este item</string>
     
     <string name="mensagem_confirmacao_excluir">Confirma exclusão de item?</string>
     <string name="botao_confirmar_exclusao">Sim</string>
