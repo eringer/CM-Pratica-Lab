@@ -15,5 +15,26 @@
     
     <string name="mensagem_exclusao_realizada">Exclusão de item realizada.</string>
     <string name="mensagem_exclusao_cancelada">Exclusão de item cancelada.</string>
-
+    <string name="mensagem_inclusao_realizada">Inclusão de item realizada.</string>
+    <string name="mensagem_inclusao_cancelada">Inclusão de item cancelada.</string>
+    <string name="mensagem_alteracao_realizada">Alteração de item realizada.</string>
+    <string name="mensagem_alteracao_cancelada">Alteração de item cancelada.</string>
+    
+    <string name="titulo_cursos">Cursos:</string>
+    <string name="titulo_disciplinas">Disciplinas:</string>
+    <string name="titulo_alunos">Alunos:</string>
+    
+    <string name="titulo_nome_curso">Nome:</string>
+    <string name="titulo_duracao_curso">Duração:</string>
+    
+    <string name="titulo_codigo_disciplina">Código:</string>
+    <string name="titulo_nome_disciplina">Nome:</string>
+    <string name="titulo_creditos_disciplina">Créditos</string>
+    
+    <string name="titulo_matricula_aluno">Matrícula:</string>
+    <string name="titulo_nome_aluno">Nome:</string>
+    
+    <string name="botao_salvar">Salvar</string>
+    <string name="botao_cancelar">Cancelar</string>
+    
 </resources>

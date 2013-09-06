@@ -24,34 +24,53 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
+        public static final int edittextDuracaoCurso=0x7f080003;
+        public static final int edittextNomeCurso=0x7f080002;
         public static final int listviewDados=0x7f080001;
-        public static final int menuitemExibirAlunos=0x7f080004;
-        public static final int menuitemExibirCursos=0x7f080002;
-        public static final int menuitemExibirDisciplinas=0x7f080003;
-        public static final int menuitemIncluirAluno=0x7f080007;
-        public static final int menuitemIncluirCurso=0x7f080005;
-        public static final int menuitemIncluirDisciplina=0x7f080006;
+        public static final int menuitemExibirAlunos=0x7f080006;
+        public static final int menuitemExibirCursos=0x7f080004;
+        public static final int menuitemExibirDisciplinas=0x7f080005;
+        public static final int menuitemIncluirAluno=0x7f080009;
+        public static final int menuitemIncluirCurso=0x7f080007;
+        public static final int menuitemIncluirDisciplina=0x7f080008;
         public static final int textviewTitulo=0x7f080000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int formulario_curso=0x7f030001;
     }
     public static final class menu {
         public static final int main=0x7f070000;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
+        public static final int botao_cancelar=0x7f05001b;
         public static final int botao_cancelar_exclusao=0x7f050009;
         public static final int botao_confirmar_exclusao=0x7f050008;
+        public static final int botao_salvar=0x7f05001a;
+        public static final int mensagem_alteracao_cancelada=0x7f05000f;
+        public static final int mensagem_alteracao_realizada=0x7f05000e;
         public static final int mensagem_confirmacao_excluir=0x7f050007;
         public static final int mensagem_exclusao_cancelada=0x7f05000b;
         public static final int mensagem_exclusao_realizada=0x7f05000a;
+        public static final int mensagem_inclusao_cancelada=0x7f05000d;
+        public static final int mensagem_inclusao_realizada=0x7f05000c;
         public static final int menu_item_exibir_alunos=0x7f050003;
         public static final int menu_item_exibir_cursos=0x7f050001;
         public static final int menu_item_exibir_disciplinas=0x7f050002;
         public static final int menu_item_incluir_aluno=0x7f050006;
         public static final int menu_item_incluir_curso=0x7f050004;
         public static final int menu_item_incluir_disciplina=0x7f050005;
+        public static final int titulo_alunos=0x7f050012;
+        public static final int titulo_codigo_disciplina=0x7f050015;
+        public static final int titulo_creditos_disciplina=0x7f050017;
+        public static final int titulo_cursos=0x7f050010;
+        public static final int titulo_disciplinas=0x7f050011;
+        public static final int titulo_duracao_curso=0x7f050014;
+        public static final int titulo_matricula_aluno=0x7f050018;
+        public static final int titulo_nome_aluno=0x7f050019;
+        public static final int titulo_nome_curso=0x7f050013;
+        public static final int titulo_nome_disciplina=0x7f050016;
     }
     public static final class style {
         /** 
