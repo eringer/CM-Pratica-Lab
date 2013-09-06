@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExperimentoDialog</string>
+    <string name="menu_item_exibir_cursos">Exibir cursos</string>
+    <string name="menu_item_exibir_disciplinas">Exibir disciplinas</string>
+    <string name="menu_item_exibir_alunos">Exibir alunos</string>
+    <string name="menu_item_incluir_curso">Cadastrar curso</string>
+    <string name="menu_item_incluir_disciplina">Cadastrar disciplina</string>
+    <string name="menu_item_incluir_aluno">Cadastrar aluno</string>
+    
+    <string name="mensagem_confirmacao_excluir">Confirma exclusão de item?</string>
+    <string name="botao_confirmar_exclusao">Sim</string>
+    <string name="botao_cancelar_exclusao">Não</string>
+    
+    <string name="mensagem_exclusao_realizada">Exclusão de item realizada.</string>
+    <string name="mensagem_exclusao_cancelada">Exclusão de item cancelada.</string>
+
+</resources>
